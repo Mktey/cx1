@@ -1,0 +1,452 @@
+.root {
+  position: relative;
+  width: 375px;
+  height: 812px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.vector {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+._6490 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+._6317 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 92.3645%;
+  bottom: 0;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.group {
+  position: absolute;
+  left: 43px;
+  top: 761px;
+  width: 101px;
+  height: 40px;
+  overflow: visible;
+  filter: drop-shadow(0px 0px 6px #aeaeae29);
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.hOME {
+  color: #413434;
+  font-size: 14px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.6379%;
+  right: 66.4288%;
+  top: 95.0739%;
+  bottom: 2.5862%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.iconfinder_icons_home_1564508 {
+  position: absolute;
+  left: 58.003px;
+  top: 772.5859px;
+  width: 21.0294px;
+  height: 17.5185px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+._11157 {
+  position: absolute;
+  left: 276.159px;
+  top: 773.999px;
+  width: 18.81px;
+  height: 18.81px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+._11172 {
+  position: absolute;
+  left: 188px;
+  top: 773.967px;
+  width: 15.0004px;
+  height: 18.918px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.group2 {
+  position: absolute;
+  left: 18px;
+  top: 74px;
+  width: 339px;
+  height: 220px;
+  overflow: visible;
+  filter: drop-shadow(0px 3px 6px #00000029);
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.hKG {
+  color: #707070;
+  font-size: 50px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.2667%;
+  right: 65.8667%;
+  top: 13.0542%;
+  bottom: 78.6946%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tKO {
+  color: #707070;
+  font-size: 50px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 65.8667%;
+  right: 9.8667%;
+  top: 13.0542%;
+  bottom: 78.6946%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tokyo {
+  color: #707070;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 65.8667%;
+  right: 27.2%;
+  top: 20.6897%;
+  bottom: 77.7094%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.hongKong {
+  color: #707070;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.2667%;
+  right: 78.1333%;
+  top: 20.6897%;
+  bottom: 77.7094%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._6504 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 92.734%;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+._6509 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 92.734%;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.cX500CHANTaiMen {
+  position: absolute;
+  left: 8.2667%;
+  right: 48.5333%;
+  top: 10.0985%;
+  bottom: 86.5764%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 15px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #707070;
+  font-size: 20px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #707070;
+  font-size: 15px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._3h49m {
+  color: #707070;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 45.6%;
+  right: 46.1333%;
+  top: 19.8276%;
+  bottom: 78.5714%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.departure {
+  color: #00645a;
+  font-size: 15px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.2667%;
+  right: 73.8667%;
+  top: 23.1527%;
+  bottom: 74.3842%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1527 {
+  color: #707070;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.2667%;
+  right: 85.3333%;
+  top: 25.7389%;
+  bottom: 72.6601%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.terminal1 {
+  color: #707070;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.2667%;
+  right: 79.4667%;
+  top: 29.6798%;
+  bottom: 68.7192%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.gate31 {
+  color: #707070;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.2667%;
+  right: 82.4%;
+  top: 31.6502%;
+  bottom: 66.7488%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.boarding {
+  color: #00645a;
+  font-size: 15px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 65.8667%;
+  right: 17.8667%;
+  top: 23.1527%;
+  bottom: 74.3842%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._2016 {
+  color: #707070;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 65.8667%;
+  right: 27.7333%;
+  top: 25.7389%;
+  bottom: 72.6601%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.terminal2 {
+  color: #707070;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 65.8667%;
+  right: 21.8667%;
+  top: 29.6798%;
+  bottom: 68.7192%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.gate73 {
+  color: #707070;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 65.8667%;
+  right: 24.8%;
+  top: 31.6502%;
+  bottom: 66.7488%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1 {
+  position: absolute;
+  left: 10.1333%;
+  right: 9.8667%;
+  top: 43.2266%;
+  bottom: 19.8276%;
+  background-image:/* webpackIgnore: true */ url('/assets/_1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.myBoardingPass {
+  color: #fff;
+  font-size: 20px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.0667%;
+  right: 29.0667%;
+  top: 1.4778%;
+  bottom: 95.197%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.group3 {
+  position: absolute;
+  left: 77px;
+  top: 677px;
+  width: 221px;
+  height: 54px;
+  overflow: visible;
+  filter: drop-shadow(0px 3px 6px #00000029);
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.asiaMiles1000 {
+  color: #fff;
+  font-size: 20px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 28.2667%;
+  right: 28.2667%;
+  top: 84.6059%;
+  bottom: 12.069%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.seat {
+  color: #00645a;
+  font-size: 15px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.2629%;
+  right: 63.0037%;
+  top: 23.1527%;
+  bottom: 74.3842%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._24A {
+  color: #7e7e7e;
+  font-size: 10px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 30.7691%;
+  right: 64.4309%;
+  top: 25.7389%;
+  bottom: 72.6601%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
